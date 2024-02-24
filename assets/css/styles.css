@@ -83,3 +83,69 @@ body {
     position: relative;
     top: 5px;
 }
+
+.watching-video  {
+    width: 952px;
+    height: 746px;
+    gap: 16px;
+    position: relative;
+    top: 28px;
+    left: 75px;
+    display: flex;
+    flex-direction: column;
+}
+
+.watching-video #thumbnail {
+    width: 952px;
+    height: 537px;
+}
+
+.watching-video #video-title {
+    display: flex;
+    width: 871px;
+    height: 23px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 23.44px;
+    color: #000;
+    align-items: center;
+}
+
+.watching-video .video-actions #channel-info{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 902px;
+    height: 42px;
+    gap: 42px;
+}
+
+.watching-video .video-actions #channel-info #channel-logo {
+    display: flex;
+    flex-direction: row;
+    width: 160px;
+    height: 42px;
+    gap: 12px;
+}
+
+.watching-video .video-actions #channel-info #channel-logo img{
+    width: 42px;
+    height: 42px;
+    border-radius: 100%;
+}
+
+.watching-video .video-actions #channel-info #channel-logo p{
+    flex-wrap: wrap;
+    width: 106px;
+    height: 32px;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.watching-video .video-actions #channel-info #channel-logo p span{
+    width: 106px;
+    height: 32px;
+    font-weight: 600;
+    font-size: 11px;
+    color: #515151;
+}
