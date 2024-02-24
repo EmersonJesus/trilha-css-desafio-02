@@ -45,3 +45,13 @@ body {
     top: 16px;
     left: 24px;
 }
+
+.menu-container #menu-center  {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 8px;
+    width: 404px;
+    height: 40px;
+    border: 1px solid #ccc;
+}
