@@ -12,7 +12,7 @@
   margin: 0;
   padding: 0;
   font-family: var(--font-family);
-  box-sizing: border-box;
+  
 }
 
 body {
@@ -20,14 +20,14 @@ body {
 }
 
 .menu-container {
-    display: flex;
-    width: 1440px;
+    /* Remova a largura fixa e adicione margens para espaçamento nas laterais */
+    max-width: 100%;
+    margin: 0 24px;
     height: 56px;
-    padding: 0px 24px 0px 24px;
     background-color: #fff;
-    flex-direction: row;
+    display: flex;
     justify-content: space-between;
-}
+  }
 
 .menu-container #menu-left {
     display: flex;
@@ -200,11 +200,12 @@ body {
 }
 
 .side-bar {
-    width: 160px;
+    width: 100%;
+    max-width: 160px;
+    position: relative;
     height: 90px;
     display: flex;
     flex-direction: column;
-    position: relative;
     bottom: 718px;
     left: 1150px;
 }
