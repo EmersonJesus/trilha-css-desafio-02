@@ -55,3 +55,31 @@ body {
     height: 40px;
     border: 1px solid #ccc;
 }
+
+.menu-container #menu-right {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 130px;
+    height: 34px;
+    gap: 24px;
+}
+
+.menu-container #menu-right #video-menu {
+    width: 24px;
+    height: 24px;
+}
+
+.menu-container #menu-right #bell {
+    width: 24px;
+    height: 24px;
+}
+
+.menu-container #menu-right #avatar img {
+    width: 34px;
+    height: 34px;
+    border-radius: 100%;
+    position: relative;
+    top: 5px;
+}
