@@ -102,7 +102,7 @@ body {
     flex-direction: column;
 }
 
-.watching-video #thumbnail {
+.watching-video #thumbnail img {
     width: 952px;
     height: 537px;
 }
