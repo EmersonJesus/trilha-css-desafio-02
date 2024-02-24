@@ -206,7 +206,6 @@ body {
     position: relative;
     bottom: 718px;
     left: 1052px;
-    gap: 16px;
 }
 
 .side-bar .side-bar-video #thumb img{
@@ -218,6 +217,7 @@ body {
     display: flex;
     flex-direction: column;
     position: relative;
+    bottom: 90px;
 }
 
 .side-bar .side-bar-video #infos #video-title h2{
