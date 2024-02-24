@@ -149,3 +149,45 @@ body {
     font-size: 11px;
     color: #515151;
 }
+
+.watching-video .description {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.watching-video .description #view {
+    width: 100%;
+    height: 16px;
+    position: relative;
+    top: 5px;
+}
+
+.watching-video .description #view p{
+    font-size: 13px; 
+    font-weight: 600;
+    color: #000;
+}
+
+.watching-video .description #view p a{
+    text-decoration: none;
+    color: #000;
+}
+
+.watching-video .description #video-description {
+    width: 510px;
+    height: auto;
+    position: relative;
+    top: 15px;
+}
+
+.watching-video .description #video-description p{
+    font-size: 13px; 
+    font-weight: 400;
+    color: #515151;
+}
+
+.watching-video .description #video-description p a{
+    text-decoration: none;
+    color: #515151;
+}
