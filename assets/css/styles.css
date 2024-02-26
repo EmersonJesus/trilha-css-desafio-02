@@ -103,8 +103,8 @@ body {
 }
 
 .watching-video #thumbnail img {
-    width: 952px;
-    height: 537px;
+    width: 1400px;
+    height: 800px;
 }
 
 .watching-video #video-title {
@@ -160,7 +160,6 @@ body {
 .watching-video .description {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
 }
 
 .watching-video .description #view {
@@ -207,7 +206,7 @@ body {
     display: flex;
     flex-direction: column;
     bottom: 718px;
-    left: 1150px;
+    left: 1550px;
 }
 
 .side-bar .side-bar-video #thumb img{
