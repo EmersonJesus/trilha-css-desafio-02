@@ -43,3 +43,8 @@ Este projeto é sugerido pela plataforma DIO, e você pode acessar o protótipo 
 ### 💽 Repositório no GitHub:
 
 Confira o [link do projeto no GitHub](https://github.com/EmersonJesus/trilha-css-desafio-02) para ter acesso ao código-fonte do site que eu mesmo desenvolvi, seguindo as diretrizes do projeto da DIO.
+
+
+## 👨‍💻 Sobre
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-jesus-b84266195/)
+[![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmersonJesus).
