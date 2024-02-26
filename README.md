@@ -9,6 +9,7 @@ Seja criativo(a) e dê a sua identidade para o Projeto. Lembre-se que para um(a)
 
 Este projeto é sugerido pela plataforma DIO, e você pode acessar o protótipo do desafio no [Figma](https://www.figma.com/file/lrRWUZPKnqMDZrSDJmZxUS/Desafio-de-Flexbox---DIO?type=design&node-id=1-2&mode=design&t=as8qUDYTDbSIxZnh-0), o qual servirá como base para a sua implementação.
 
+![image](https://i.imgur.com/hs9pc3D.png)
 
 ### 📚 Aprendizado Prático de FLEXBOX:
  - [FLEXBOX FROGGY](https://flexboxfroggy.com/) - um jogo onde você ajuda Froggy e seus amigos escrevendo código CSS! 
